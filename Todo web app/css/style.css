@@ -1,0 +1,19 @@
+body {
+    background-color: #36AFDE
+}
+
+.title-head {
+    color: white;
+}
+
+.desc-head {
+    color: white;
+}
+
+.del-head {
+    color: white;
+}
+
+hr {
+    border-top: 1px solid white;
+}
